@@ -30,22 +30,23 @@ body {
 }
 
 .bio {
-    font-size: 1.35em;
-    margin-top: 45px;
+    font-size: 1.5em;
+    margin-top: 50px;
 }
 
-#similar-artists {
-    margin-top: 45px;
+.highlights-head {
+    margin-top: 25px;
     margin-left: 15px;
     font-size: 1.5em;
 }
 
-.artists {
+.highlights {
     font-size: 1.5em;
-    padding: 15px 30px;
+    line-height: 1.5em;
+    padding-left: 30px;
 }
 
-.artists li {
+.hightlights li {
     padding-top: 15px;
 }
 
@@ -76,6 +77,14 @@ body {
     margin-top: 25px;
     height: 80%;
     float: left;
+}
+
+.contacts {
+    margin-top: 50;
+}
+
+.contacts a {
+    color: #333
 }
 
 /*blockquote {
