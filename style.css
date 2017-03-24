@@ -24,10 +24,11 @@ body {
     margin-left: auto;
 }
 
-#glossolalia-cover {
-    margin-top: 65px;
+#album-cover {
+    margin-top: 45px;
     margin-right: 45px;
     float: right;
+    width: 450px;
 }
 
 #title {
@@ -81,7 +82,7 @@ body {
 }
 
 .quotes {
-    margin-top: 25px;
+    margin-top: 75px;
 }
 
 .quotes blockquote {
@@ -90,7 +91,7 @@ body {
 
 
 .contacts {
-    margin-top: 50;
+    margin-top: 25px;
 }
 
 .contacts a {
