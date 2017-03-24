@@ -2,6 +2,20 @@ body {
     font: 14px 'Gafata', Helvetica, arial, sans-serif;
 }
 
+.horizontal-line {
+    border-bottom: 1px solid #000;
+    width: 900px;
+    margin: 0 auto;
+    display: block;
+}
+
+.vertical-line {
+    border-left: 1px solid #000;
+    margin-top: 25px;
+    height: 80%;
+    float: left;
+}
+
 #logo {
     display: block;
     margin-top: 100px;
@@ -27,6 +41,15 @@ body {
  font-size: 1.75em;
  padding-left: 50px;
 
+}
+
+.featured-track {
+    background-color: #fffddd;
+}
+
+.tracks-info {
+    margin-left: 25px;
+    padding-top: 10px;
 }
 
 .bio {
@@ -65,19 +88,6 @@ body {
     font-family: "Georgia", serif;
 }
 
-.horizontal-line {
-    border-bottom: 1px solid #000;
-    width: 900px;
-    margin: 0 auto;
-    display: block;
-}
-
-.vertical-line {
-    border-left: 1px solid #000;
-    margin-top: 25px;
-    height: 80%;
-    float: left;
-}
 
 .contacts {
     margin-top: 50;
